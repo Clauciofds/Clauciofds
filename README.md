@@ -34,6 +34,6 @@ na [Cubos Academy](https://cubos.academy/) e também fiz cursos na [Alura](https
 
 ## Contato
 ### - Emails: 
-clauciofds@gmail.com
+*clauciofds@gmail.com*
 
-clauciofds@hotmail.com
+*clauciofds@hotmail.com*
