@@ -13,13 +13,15 @@ Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
   <img align="center" alt="TypeScript" width="60" height="60" title="Type Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Git Bash" width="60" height="60" title="Git Bash" style="background-color: #4169E1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
   <img align="center" alt="Prompt do Linux" width="60" height="60" title="Prompt Linux" style="background-color: #4169;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="GitHub" width="60" height="60" title="GitHub" style="background-color: #8A2BE2;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  
 </div>
 
 ## IDEs que já que já trabalhei como DEV
 <div style="display: inline_block"><br/>
 <img align="center" alt="Visual Code Studio" width="60" height="60" title="Visual Code Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" alt="GitHub" width="60" height="60" title="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
+          
 </div><br/>
 
 
