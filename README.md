@@ -35,6 +35,3 @@ na [Cubos Academy](https://cubos.academy/) e também fiz cursos na [Alura](https
 clauciofds@gmail.com
 
 clauciofds@hotmail.com
-
-## - Discord
-clauciofds
