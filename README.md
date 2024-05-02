@@ -16,7 +16,7 @@ Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
   
 </div>
 
-## IDEs que já que já trabalhei como DEV
+## IDEs que já que já tive contato como DEV
 <div style="display: inline_block"><br/>
 <img align="center" alt="Visual Code Studio" width="60" height="60" title="Visual Code Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" alt="GitHub" width="60" height="60" title="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
