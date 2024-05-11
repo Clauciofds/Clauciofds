@@ -4,7 +4,7 @@ Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/) [![TwitterX](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clauciofds) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzHwYcpC501PQobJp9sq9pg) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://img.sclauciofds)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clauciofds&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/Clauciofds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clauciofds&layout=donut&theme=radical)](https://github.com/Clauciofds/github-readme-stats)
 
 
 ## Tecnologias que eu já tive contato nos estudos
