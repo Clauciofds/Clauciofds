@@ -1,7 +1,9 @@
 # Olá, sou Cláucio Santos ♿🏁🏆
 Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
 
-<img src="https://github.com/Clauciofds/Clauciofds/blob/main/icons/Munde_o_mundo.gif" alt="capa_git" style="width: 100%;">
+<img src="https://github.com/Clauciofds/Clauciofds/blob/main/icons/Munde_o_mundo.gif" width=100%>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/) [![TwitterX](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clauciofds) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzHwYcpC501PQobJp9sq9pg) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://img.sclauciofds)
 
