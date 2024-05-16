@@ -6,8 +6,8 @@ Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
 <img src="https://github.com/Clauciofds/Clauciofds/blob/main/icons/Munde_o_mundo.gif" width=100%>
 
 <div>
-<a href="https://github.com/Clauciofds">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauciofds&layout=compact&langs_count=7&theme=dracula"/>
+<a href="[Repositórios Clauciofds](https://github.com/Clauciofds?tab=repositories)">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauciofds&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Clauciofds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
