@@ -13,20 +13,6 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 
 ## Links para Repositórios Relacionados ao curso em desevolvimento
 
-### Bach-end 🪜 Degrau 01.
-- [Variáveis](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/01-variaveis)
-- [Introdução ao TypeScript](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/02-introducao_typescript)
-- [Condicionais e Truthiness](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/03-condicionais)
-- [Arrays e Loops](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/04-array_loop)
-- [Objetos](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/05-objetos)
-
-### Back-end 🪜 Degrau 02
-- [Funções](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/01-funcoes)
-- [Tipos de Dados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/02-tipos_de_dados_II)
-- [Tipos Utilitários](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/03-tipos_utilitarios_ts)
-- [Métodos de Strings](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/04-metodos_strings)
-- [Métodos de Arrays](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/05-metodos_arrays)
-
 ### Back-end 🪜 Degrau 03
 - [Testes automatizados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/01-testes_automatizados)
 - [Primeiro Servidor Fastify](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/02-primeiro_servidor_fastify)
@@ -36,6 +22,27 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 - [Assincronismo, Leitura e Escrita em Arquivos](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/08-assincronismo_leteitura_escrita_arq)
 - [Api assincronismo e testes](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/09-api_assincronismo_testes)
 - [Tratamento de erros com express](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/10-tratamento_de_erros_heran%C3%A7a_polimorfismo)
+
+### Back-end 🪜 Degrau 04
+- [Docket](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/01-introducao_docker_dockerCompose)
+- [BD (Banco de Dados) SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/03-consulta_SQL)
+- [Modelagem de BD](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/04-modelagem_de_dados)
+- [CRUD SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/05-crud_sql)
+- 
+### Back-end 🪜 Degrau 02
+- [Funções](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/01-funcoes)
+- [Tipos de Dados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/02-tipos_de_dados_II)
+- [Tipos Utilitários](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/03-tipos_utilitarios_ts)
+- [Métodos de Strings](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/04-metodos_strings)
+- [Métodos de Arrays](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/05-metodos_arrays)
+
+### Bach-end 🪜 Degrau 01.
+- [Variáveis](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/01-variaveis)
+- [Introdução ao TypeScript](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/02-introducao_typescript)
+- [Condicionais e Truthiness](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/03-condicionais)
+- [Arrays e Loops](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/04-array_loop)
+- [Objetos](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/05-objetos)
+
 
 ## Exercícios
 - [🪜 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
