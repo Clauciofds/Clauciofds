@@ -5,7 +5,7 @@ Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
 
 ## Descrição
 
-Este repositório é dedicado ao meu desenvolvimento como desenvolvedor de software full stack. Aqui você encontrará uma coleção de projetos e exemplos que acompanham minha jornada através de diversos cursos e estudos. O objetivo é documentar meu progresso e compartilhar conhecimentos adquiridos em diferentes áreas do desenvolvimento de software.
+Este repositório é dedicado ao meu desenvolvimento como desenvolvedor de software full stack. Aqui você encontrará uma coleção de projetos e exemplos que acompanham minha jornada através de diversos degrais, vou identificar desta forma minha escalada de estudos. O objetivo é documentar meu progresso e compartilhar conhecimentos adquiridos em diferentes áreas do desenvolvimento de software.
 
 ## Objetivo dos Repositórios
 
@@ -13,21 +13,21 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 
 ## Links para Repositórios Relacionados ao curso em desevolvimento
 
-### Bach-end - Modulo 01
+### Bach-end - Degrau 01.
 - [Variáveis](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/01-variaveis)
 - [Introdução ao TypeScript](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/02-introducao_typescript)
 - [Condicionais e Truthiness](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/03-condicionais)
 - [Arrays e Loops](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/04-array_loop)
 - [Objetos](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/05-objetos)
 
-### Back-end - Modulo 02
+### Back-end - Degrau 02
 - [Funções](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/01-funcoes)
 - [Tipos de Dados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/02-tipos_de_dados_II)
 - [Tipos Utilitários](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/03-tipos_utilitarios_ts)
 - [Métodos de Strings](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/04-metodos_strings)
 - [Métodos de Arrays](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/05-metodos_arrays)
 
-### Back-end - Modulo 03
+### Back-end - Degrau 03
 - [Testes automatizados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/01-testes_automatizados)
 - [Primeiro Servidor Fastify](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/02-primeiro_servidor_fastify)
 - [Rotas, Intermediários e Controladores](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/04-rotas_itermediaria_controladores)
@@ -38,12 +38,13 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 - [Tratamento de erros com express](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/10-tratamento_de_erros_heran%C3%A7a_polimorfismo)
 
 ## Exercícios
+- [Degrau 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
+- Degrau 01/02.
+  - [Degrau 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
+- Degrau 01/03.
+  - [Degrau 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
 
-- [Modulo 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
-- [Modulo 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
-- [Modulo 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
-
-## Links para outros cursos
+## Links para outras experièncias e atividades correlatas.
 - [Python](https://github.com/Clauciofds/Curso_Python_Introducao)
 - [Csharp](https://github.com/Clauciofds/CSharp_Intruducao)
 - [Eboilerplate-typescript-node ](https://github.com/Clauciofds/boilerplate-typescript-node)
