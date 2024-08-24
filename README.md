@@ -38,9 +38,9 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 - [Tratamento de erros com express](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/10-tratamento_de_erros_heran%C3%A7a_polimorfismo)
 
 ## Exercícios
-- [🪜 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
-- [🪜 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
 - [🪜 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
+- [🪜 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
+- [🪜 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
 
 ## Links para outras experièncias e atividades correlatas.
 - [Python](https://github.com/Clauciofds/Curso_Python_Introducao)
