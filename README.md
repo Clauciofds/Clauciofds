@@ -39,10 +39,8 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 
 ## Exercícios
 - [Degrau 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
-- Degrau 01/02.
-  - [Degrau 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
-- Degrau 01/03.
-  - [Degrau 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
+- [Degrau 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
+- [Degrau 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
 
 ## Links para outras experièncias e atividades correlatas.
 - [Python](https://github.com/Clauciofds/Curso_Python_Introducao)
