@@ -14,7 +14,7 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 ## Links para Repositórios Relacionados ao curso em desevolvimento
 
 ### Back-end 🪜 Degrau 03
-- [Testes automatizados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/01-testes_automatizados)
+- [Testes automatizados](https://github.com/Clauciofds/TypeScript-Journey/tree/main/modulo_03/aulas/01-testes_automatizados)
 - [Primeiro Servidor Fastify](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/02-primeiro_servidor_fastify)
 - [Rotas, Intermediários e Controladores](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/04-rotas_itermediaria_controladores)
 - [API REST](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/05-api_rest)
@@ -25,7 +25,7 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 
 ### Back-end 🪜 Degrau 04
 - [Docket](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/01-introducao_docker_dockerCompose)
-- [BD (Banco de Dados) SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/03-consulta_SQL)
+- [BD (Banco de Dados) SQL](https://github.com/Clauciofds/TypeScript-Journey/tree/main/modulo_04/aulas/03-consulta_SQL)
 - [Modelagem de BD](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/04-modelagem_de_dados)
 - [CRUD SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/05-crud_sql)
 - 
