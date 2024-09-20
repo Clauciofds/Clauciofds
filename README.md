@@ -1,4 +1,5 @@
 # Olá, sou Cláucio Santos ♿🪜🏆
+
 Desenvolvedor Full Stack | Javascript | Node | React | HTML | SQL
 
 [![LinkdIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claucio-f-d-dos-santos-a2b46532/)
@@ -75,12 +76,22 @@ na [Cubos Academy](https://cubos.academy/), [Alura](https://www.alura.com.br/) e
 
 ## Tecnologias que eu já tive contato nos estudos
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Python" width="60" height="60" title="Python" style="background-color: #FFf;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="TypeScript" width="60" height="60" title="Type Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Git Bash" width="60" height="60" title="Git Bash" style="background-color: #4169E1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-  <img align="center" alt="Prompt do Linux" width="60" height="60" title="Prompt Linux" style="background-color: #4169;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Python" width="60" height="60" title="Python" style="background-color: #FFf;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Prompt do Linux" width="60" height="60" style="background-color: #FFFFFF;"  title="Prompt Linux" style="background-color: #4169;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="GitHub" width="60" height="60" title="GitHub" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img title="Docker" align="center" width="60" height="60" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+  -------------------------------------
+  <img title="PostgrSQL" aling="center" width="60" height="60" style="background-color: #FFFFFF;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img title="NestJS" aling="center" width="60" height="60" style="background-color: #FFFFFF;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img title="NodeJS" aling="center" width="60" height="60" style="background-color: #FFFFFF;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img title="Npm Library" aling="center" width="60" height="60" style="background-color: #FFFFFF;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+
 </div>
+
+
+
 
 ## IDEs que já que já trabalhei como DEV
 <div style="display: inline_block"><br/>
