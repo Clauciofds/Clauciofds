@@ -79,9 +79,7 @@ na [Cubos Academy](https://cubos.academy/), [Alura](https://www.alura.com.br/) e
   <img align="center" alt="TypeScript" width="60" height="60" title="Type Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Python" width="60" height="60" title="Python" style="background-color: #FFf;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Prompt do Linux" width="60" height="60" style="background-color: #FFFFFF;"  title="Prompt Linux" style="background-color: #4169;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="GitHub" width="60" height="60" title="GitHub" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img title="Github" align="center" width="60" style="background-color: #FFFFFF;" height="60" src=./icons/github.svg />
-  
+  <img align="center" alt="GitHub" width="60" height="60" title="GitHub" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
   <img title="Docker" align="center" width="60" height="60" style="background-color: #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
   -------------------------------------
