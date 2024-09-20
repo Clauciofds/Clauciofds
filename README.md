@@ -70,12 +70,7 @@ na [Cubos Academy](https://cubos.academy/), [Alura](https://www.alura.com.br/) e
 
 ## Dados interessante sobre minha escalada
 
-
-<div>
-<a href="https://github.com/Clauciofds">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauciofds&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Clauciofds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clauciofds&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu já tive contato nos estudos
@@ -92,6 +87,3 @@ na [Cubos Academy](https://cubos.academy/), [Alura](https://www.alura.com.br/) e
 <img align="center" alt="Visual Code Studio" width="60" height="60" title="Visual Code Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" alt="GitHub" width="60" height="60" title="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 </div><br/>
-
-
-#
