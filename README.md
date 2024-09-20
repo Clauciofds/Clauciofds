@@ -13,7 +13,14 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 
 ## Links para Repositórios Relacionados ao curso em desevolvimento
 
-### Back-end 🪜 Degrau 03
+### Back-end 🪜 Quarto degrau
+- [NestJS](https://github.com/Clauciofds/TypeScript-newJorney/tree/main/modulo_04/aulas/12-introducao-nest-js)
+- [Docket](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/01-introducao_docker_dockerCompose)
+- [BD (Banco de Dados) SQL](https://github.com/Clauciofds/TypeScript-Journey/tree/main/modulo_04/aulas/03-consulta_SQL)
+- [Modelagem de BD](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/04-modelagem_de_dados)
+- [CRUD SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/05-crud_sql)
+
+### Back-end 🪜 Terceiro degrau
 - [Testes automatizados](https://github.com/Clauciofds/TypeScript-Journey/tree/main/modulo_03/aulas/01-testes_automatizados)
 - [Primeiro Servidor Fastify](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/02-primeiro_servidor_fastify)
 - [Rotas, Intermediários e Controladores](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/04-rotas_itermediaria_controladores)
@@ -23,31 +30,15 @@ Os repositórios aqui contidos são destinados ao aprendizado e à prática de c
 - [Api assincronismo e testes](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/09-api_assincronismo_testes)
 - [Tratamento de erros com express](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/aulas/10-tratamento_de_erros_heran%C3%A7a_polimorfismo)
 
-### Back-end 🪜 Degrau 04
-- [Docket](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/01-introducao_docker_dockerCompose)
-- [BD (Banco de Dados) SQL](https://github.com/Clauciofds/TypeScript-Journey/tree/main/modulo_04/aulas/03-consulta_SQL)
-- [Modelagem de BD](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/04-modelagem_de_dados)
-- [CRUD SQL](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_04/aulas/05-crud_sql)
-- 
-### Back-end 🪜 Degrau 02
-- [Funções](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/01-funcoes)
-- [Tipos de Dados](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/02-tipos_de_dados_II)
-- [Tipos Utilitários](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/03-tipos_utilitarios_ts)
-- [Métodos de Strings](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/04-metodos_strings)
-- [Métodos de Arrays](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/aulas/05-metodos_arrays)
+### Back-end degrais inferiores
 
-### Bach-end 🪜 Degrau 01.
-- [Variáveis](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/01-variaveis)
-- [Introdução ao TypeScript](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/02-introducao_typescript)
-- [Condicionais e Truthiness](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/03-condicionais)
-- [Arrays e Loops](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/04-array_loop)
-- [Objetos](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/aulas/05-objetos)
+[Results and the journey](https://github.com/Clauciofds/TypeScript-newJorney/tree/main)
 
 
 ## Exercícios
+- [🪜 04](https://github.com/Clauciofds/TypeScript-newJorney/tree/main/modulo_04/exercicios)
 - [🪜 03](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_03/exercicios)
-- [🪜 02](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_02/exercicios)
-- [🪜 01](https://github.com/Clauciofds/Intruducao_Type_Script/tree/main/modulo_01/exercicios)
+
 
 ## Links para outras experièncias e atividades correlatas.
 - [Python](https://github.com/Clauciofds/Curso_Python_Introducao)
